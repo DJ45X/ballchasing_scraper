@@ -7,9 +7,9 @@ This script is a refactor of another developer's work. Credit will be updated wh
 ### Windows
 1. Open Start and search for "Environment Variables".
 2. Click "Edit the System Environment Variables".
-3. Click "Environment Variables" at the bottom right corner ![screenshot](![image](https://github.com/user-attachments/assets/2e723aa7-2d6e-4b17-a4a0-ffd27b61b4a1)
+3. Click "Environment Variables" at the bottom right corner https://github.com/user-attachments/assets/2e723aa7-2d6e-4b17-a4a0-ffd27b61b4a1
 ).
-4. Under the Users section, click "New" ![screenshot](![image](https://github.com/user-attachments/assets/a59d43ea-9aa3-440c-9369-55e3a98b9712)
+4. Under the Users section, click "New" https://github.com/user-attachments/assets/a59d43ea-9aa3-440c-9369-55e3a98b9712
 ).
 5. Set Variable Name to `BALLCHASING_API_KEY`.
 6. Set Variable Value to your unique API key.
